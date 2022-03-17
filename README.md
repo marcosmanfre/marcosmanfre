@@ -1,6 +1,6 @@
 Olá! Eu sou o Marcos Manfré
 
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas
+- 🌱 aEstudando Análise e Desenvolvimento de Sistemas
 
 <div>
   <a href="https://github.com/marcosmanfre">
