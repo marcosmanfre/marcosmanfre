@@ -1,6 +1,6 @@
 Olá! Eu sou o Marcos Manfré
 
-- 👨‍💻 Profissional em transição de carreira buscando uma oportunidade de estágio meio período (matutino);
+- 👨‍💻 Profissional em transição de carreira buscando uma oportunidade de estágio;
 
 - :briefcase: Atualmente em um trabalho voluntário de desenvolvimento de software;
 
