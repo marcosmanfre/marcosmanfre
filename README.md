@@ -14,7 +14,8 @@ Olá! Eu sou o Marcos Manfré
     <a href="https://github.com/marcosmanfre">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosmanfre&theme=dark&show_icons=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosmanfre&theme=dark&layout=compact"/>      
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosmanfre&show_icons=true&theme=radical"/>      
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?marcosmanfre=ffflabs"/>      
+      
 </div>
 
   
