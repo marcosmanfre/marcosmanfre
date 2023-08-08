@@ -1,10 +1,10 @@
 Olá! Eu sou o Marcos Manfré
 
-- 👨‍💻 Profissional em transição de carreira buscando uma oportunidade de estágio;
+- 👨‍💻 Profissional em transição de carreira;
 
 - :briefcase: Atualmente em um trabalho voluntário de desenvolvimento de software;
 
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas;
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas;
 
 - :building_construction: Protfólio em construção [https://marcosmanfre.github.io/](https://marcosmanfre.github.io/);
 
