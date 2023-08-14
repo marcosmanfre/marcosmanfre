@@ -1,8 +1,5 @@
 Olá! Eu sou o Marcos Manfré
 
-- 👨‍💻 Profissional em transição de carreira;
-
-- :briefcase: Atualmente em um trabalho voluntário de desenvolvimento de software;
 
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas;
 
