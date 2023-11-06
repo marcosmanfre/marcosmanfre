@@ -1,5 +1,3 @@
-Olá! Eu sou o Marcos Manfré
-
 
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas;
 
