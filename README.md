@@ -1,5 +1,5 @@
 
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas;
+- 🌱 Desenvolvedor Back-end
 
 - :building_construction: Protfólio em construção [https://marcosmanfre.github.io/](https://marcosmanfre.github.io/);
 
