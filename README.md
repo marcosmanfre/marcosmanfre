@@ -1,9 +1,8 @@
 
-- 🌱 Desenvolvedor Back-end
+- Desenvolvedor Back-end
 
-- :building_construction: Protfólio em construção [https://marcosmanfre.github.io/](https://marcosmanfre.github.io/);
+- Protfólio em construção [https://marcosmanfre.github.io/](https://marcosmanfre.github.io/);
 
-- 📫 Contato **marcosmanfre@hotmail.com**.
 
 <div>  
     <a href="https://github.com/marcosmanfre">
