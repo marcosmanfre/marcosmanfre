@@ -1,8 +1,4 @@
 
-- Desenvolvedor Back-end
-
-- Protfólio em construção [https://marcosmanfre.github.io/](https://marcosmanfre.github.io/);
-
 
 <div>  
     <a href="https://github.com/marcosmanfre">
